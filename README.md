@@ -7,10 +7,10 @@ Un gioco di **Heave Ho**. Una pasticceria devastata, dolci alieni che si moltipl
 ## Gioca su Windows
 
 
-**[Scarica PANNA COTTA per Windows](https://github.com/Ivotto-cap/panna-cotta/releases/download/v0.1.3/Panna-Cotta-Windows-v0.1.3-Playtest-2026-10-05.zip)**
+**[Scarica PANNA COTTA per Windows](https://github.com/Ivotto-cap/panna-cotta/releases/download/v0.1.4/Panna-Cotta-Windows-v0.1.4-Playtest-2026-10-06.zip)**
 
 
-[Pagina della versione 0.1.3](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.1.3)
+[Pagina della versione 0.1.4](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.1.4)
 
 
 1. Scarica il file ZIP dal pulsante qui sopra.
@@ -31,7 +31,7 @@ Per Windows a 64 bit. Non serve installare Godot. Il gioco parte a schermo inter
 - Salvataggio automatico tra le ondate: **Carica partita** riprende dall'ultima preparazione salvata.
 
 
-La **0.1.3** introduce le asce da lancio con Turbine, il nuovo titolo illustrato, un’interfaccia più pulita e il prologo aggiornato. I salvataggi precedenti restano compatibili: spada e potenziamenti vengono convertiti nell’ascia.
+La **0.1.4** introduce il laboratorio con la crepa di Delizia, la raccolta automatica dei residui, le prime otto ondate riviste e le Cioccolose che proteggono le tiratrici. Fionda, pugnali e ricompense sono stati ribilanciati. Per provare tutto dall’inizio scegli **Nuova partita**; i salvataggi precedenti restano caricabili.
 
 
 È una versione di prova in sviluppo. Comandi completi in **LEGGIMI.txt**, licenze e attribuzioni in **LICENZE.txt**, entrambi inclusi nello ZIP.
@@ -41,4 +41,5 @@ La **0.1.3** introduce le asce da lancio con Turbine, il nuovo titolo illustrato
 
 
 [Segnala un problema o raccontaci la tua prova](https://github.com/Ivotto-cap/panna-cotta/issues). Indica l'ondata, l'arma usata e cosa stava succedendo; per gli scatti, anche il modello del PC può aiutare.
+
 
