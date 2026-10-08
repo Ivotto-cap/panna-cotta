@@ -4,9 +4,9 @@ Un gioco di **Heave Ho**. Una pasticceria devastata, dolci alieni che si moltipl
 
 ## Gioca su Windows
 
-**[Scarica PANNA COTTA per Windows](https://github.com/Ivotto-cap/panna-cotta/releases/download/v0.1.5/Panna-Cotta-Windows-v0.1.5-Playtest-2026-10-06.zip)**
+**[Scarica PANNA COTTA per Windows](https://github.com/Ivotto-cap/panna-cotta/releases/download/v0.1.6/Panna-Cotta-Windows-v0.1.6-Playtest-2026-10-08.zip)**
 
-[Pagina della versione 0.1.5](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.1.5)
+[Pagina della versione 0.1.6](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.1.6)
 
 1. Scarica il file ZIP dal pulsante qui sopra.
 2. Estrai tutti i file in una cartella.
@@ -22,7 +22,7 @@ Per Windows a 64 bit. Non serve installare Godot. Il gioco parte a schermo inter
 - Un epilogo illustrato dopo la vittoria dell’ondata 30.
 - Salvataggio automatico tra le ondate: **Carica partita** riprende dall’ultima preparazione salvata.
 
-La **0.1.5** estende la prima fase a trenta ondate, introduce menu e interfaccia in legno, Dardi Petardi e nuovi quadrelli illustrati. Gli incontri includono formazioni protette e coppie di Grande PANNA; le Ammuffite sorgono dalla Delizia. Palline e Ammuffite entrano in azione più rapidamente.
+La **0.1.6** offre tre difficoltà: **Principiante**, **Intermedio**, **Iginio Massacri**. Include nuove forme delle panne cotte, residui morbidi, pentoloni e mobili persistenti, assalti dal soffitto e tagli letali di spada e ascia. Bilanciamento aggiornato e menu senza strumenti per sviluppatori.
 
 Per provare la progressione completa scegli **Nuova partita**. È una versione di prova in sviluppo: il bilanciamento è ancora in lavorazione. Comandi completi in **LEGGIMI.txt**, licenze e attribuzioni in **LICENZE.txt**, entrambi inclusi nello ZIP.
 
