@@ -4,7 +4,7 @@ Un gioco di **Heave Ho**. Difendi la pasticceria da dolci animati dalla Delizia,
 
 ## Gioca su Windows
 
-**[Scarica PANNA COTTA 0.2.0 per Windows](https://github.com/Ivotto-cap/panna-cotta/releases/download/v0.2.0/Panna-Cotta-Windows-v0.2.0-Playtest-2026-10-22.zip)**
+**[Scarica PANNA COTTA 0.2.0 per Windows](https://github.com/Ivotto-cap/panna-cotta/releases/download/v0.2.0/Panna-Cotta-Windows-v0.2.0-Playtest-2026-10-22-r1.zip)**
 
 [Pagina della release 0.2.0](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.2.0)
 
@@ -28,7 +28,7 @@ Comandi principali: tieni premuto il sinistro e rilascia per la fionda; **R** ca
 
 ## Vecchia versione
 
-La demo **0.1.7 originale** è inclusa nello stesso ZIP. Scegli **Vecchia versione** per aprire il suo menu: campagna di **30 ondate**, tre difficoltà originali e prova Tattica. Le versioni usano salvataggi separati. Per cambiare dalla vecchia alla nuova, esci e riapri l'eseguibile principale.
+La demo **0.1.7 originale** è inclusa nello stesso ZIP. Scegli **Vecchia versione** per aprire il suo menu: campagna di **30 ondate**, tre difficoltà originali. Le versioni usano salvataggi separati. Per cambiare dalla vecchia alla nuova, esci e riapri l'eseguibile principale.
 
 [Release precedente 0.1.7, ancora disponibile separatamente](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.1.7).
 
