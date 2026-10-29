@@ -4,36 +4,37 @@ Un gioco di **Heave Ho**. Difendi la pasticceria da dolci animati dalla Delizia,
 
 ## Gioca su Windows
 
-**[Scarica PANNA COTTA 0.2.0 per Windows](https://github.com/Ivotto-cap/panna-cotta/releases/download/v0.2.0/Panna-Cotta-Windows-v0.2.0-Playtest-2026-10-22-r1.zip)**
+**[Scarica PANNA COTTA 0.3.0 per Windows](https://github.com/Ivotto-cap/panna-cotta/releases/download/v0.3.0/Panna-Cotta-Windows-v0.3.0-Playtest-2026-10-29.zip)**
 
-[Pagina della release 0.2.0](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.2.0)
+[Pagina della release 0.3.0](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.3.0)
 
-1. Scarica lo ZIP (circa 364 MB).
-2. Estrai **tutti i file**, inclusa la cartella **Versione precedente**.
-3. Apri **Panna Cotta.exe**, scegli **Nuova partita** e la versione da giocare.
+1. Scarica lo ZIP (circa 249 MB).
+2. Estrai tutti i file in una cartella.
+3. Apri **Panna Cotta.exe**, scegli **Nuova partita** e la difficoltà.
 
-Windows a 64 bit, senza installare Godot. F11 alterna finestra e schermo intero.
+Windows a 64 bit. Non servono installazione, Godot o connessione internet per giocare. **F11** alterna finestra e schermo intero.
 
-## Versione più recente
+## Una campagna, tre difficoltà
 
-- Dieci ondate e il boss finale dell'**ondata 11**, con epilogo illustrato.
-- Inventario, risorse da cercare, barricate e talenti della fionda.
-- Tiro caricabile, proiettili rimbalzanti e multishot da sviluppare.
+La versione 0.3.0 comprende **Laboratorio e Area Relax**, ciascuno con **10 ondate e un boss finale**: Complepanna ed Elettropanna.
+
+Scegli **Principiante**, **Intermedio** oppure **Iginio Massacri**. Il tutorial introduce gradualmente le azioni.
+
+- Inventario, raccolta di risorse, mobili distruttibili e barricate da costruire e riparare.
+- Fionda caricabile, munizioni speciali e talenti a più gradi, incluso il Multishot.
 - Cinque coltelli da cucina: taglia, lancia e rinforza le lame con Delizia.
-- Lo straccio ti accompagna nelle nuove meccaniche, dalla pulizia ai candelotti Deliziosi.
+- Balista manuale, spostamento laterale e danni fluttuanti.
+- Presentazioni cinematografiche dei boss, musiche dedicate e dialoghi dello straccio.
+- Finale nel Relax con pulizia, chiusura della porta e assi inchiodate.
 
-**Principiante**, **Intermedio**, **Iginio Massacri**. Il tutorial introduce gradualmente le azioni.
+Questa è l'unica versione giocabile inclusa nel pacchetto. La vecchia demo e Assedio non sono inclusi.
 
-Comandi principali: tieni premuto il sinistro e rilascia per la fionda; **R** cambia munizioni; **Q** equipaggia il coltello, **sinistro** taglia e **destro** lancia. Il multishot si sblocca nei talenti. Comandi completi in **LEGGIMI.txt**.
+## Comandi e salvataggi
 
-## Vecchia versione
+**Mouse** per mirare, **A / D** per spostarti. Con la fionda tieni premuto il **sinistro** e rilascia; **R** cambia munizioni. **Q** equipaggia il coltello: **sinistro** taglia, **destro** lancia. Il Multishot si sblocca nei talenti e si carica con il destro. **Z** aziona la balista costruita e piazzata.
 
-La demo **0.1.7 originale** è inclusa nello stesso ZIP. Scegli **Vecchia versione** per aprire il suo menu: campagna di **30 ondate**, tre difficoltà originali. Le versioni usano salvataggi separati. Per cambiare dalla vecchia alla nuova, esci e riapri l'eseguibile principale.
-
-[Release precedente 0.1.7, ancora disponibile separatamente](https://github.com/Ivotto-cap/panna-cotta/releases/tag/v0.1.7).
-
-Assedio non è disponibile in questa release. Licenze e attribuzioni in **LICENZE.txt**.
+**Carica partita** riprende il salvataggio della campagna. Il file resta `campagna-arcade.save`, nella cartella dei dati utente del gioco. Comandi completi in **LEGGIMI.txt**, licenze e attribuzioni in **LICENZE.txt**.
 
 ## Feedback
 
-[Segnala un problema o raccontaci la tua prova](https://github.com/Ivotto-cap/panna-cotta/issues). Indica versione, difficoltà, ondata, arma e cosa stava succedendo; per gli scatti, anche il modello del PC può aiutare.
+È una demo in sviluppo. [Segnala un problema o raccontaci la tua prova](https://github.com/Ivotto-cap/panna-cotta/issues), indicando versione, difficoltà, stanza, ondata e cosa stava succedendo.
